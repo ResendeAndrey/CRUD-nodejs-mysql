@@ -1,5 +1,5 @@
 <h1 align="center">
-    APIR em Nodejs + MySQL
+    API Rest em Nodejs + MySQL
 </h1>
 <h4 align="center">
   🚀 Create, Read, Uptade e Delete
